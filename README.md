@@ -28,27 +28,6 @@ The dataset contains synthetic healthcare records, including:
 - SQL
 - GitHub
 
-## Project Structure
-
-```text
-Healthcare-SQL-Data-Cleaning-and-EDA/
-│
-├── data/
-│   └── healthcare_cleaned.csv
-│
-├── sql/
-│   ├── 01_data_exploration.sql
-│   ├── 02_data_cleaning.sql
-│   └── 03_exploratory_data_analysis.sql
-│
-├── results/
-│   ├── condition_analysis.csv
-│   ├── monthly_admissions.csv
-│   └── billing_by_condition.csv
-│
-└── README.md
-```
-
 ## 1. Data Exploration
 
 The original dataset was investigated to understand its structure and identify potential data quality issues.
